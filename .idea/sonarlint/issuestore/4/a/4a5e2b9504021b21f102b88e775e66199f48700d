@@ -1,0 +1,18 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ëæ›¿úÿÿÿÿ8¥¢«å²,
+Vsquid:S2209"5Change this instance-reference to a static reference.(‘É¤œùÿÿÿÿ8—æ‚£,
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãÂ­?8Éãê‚£,
+bsquid:S1226"AIntroduce a new variable instead of reusing the parameter "node".(Ê¢ïÈşÿÿÿÿ8ø¤‡™£,
+Vsquid:S2209"5Change this instance-reference to a static reference.(Šùİÿÿÿÿÿ8´¬‹™£,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(òè•ş8¯­Ô‚£,
+Qsquid:S2209"5Change this instance-reference to a static reference.(ÇãÂş8—æ‚£,
+bsquid:S1226"AIntroduce a new variable instead of reusing the parameter "node".(Ê¢ïÈşÿÿÿÿ8ï§ù›¶,
+]squid:S1226"AIntroduce a new variable instead of reusing the parameter "node".(ÒÎÉû8—æ‚£,
+Vsquid:S2209"5Change this instance-reference to a static reference.(ÛÖº–ÿÿÿÿÿ8—æ‚£,
+Qsquid:S2209"5Change this instance-reference to a static reference.(÷×àÿ8—æ‚£,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÖïÏ´8÷”œ¶,
+Vsquid:S2209"5Change this instance-reference to a static reference.(µŠåµıÿÿÿÿ8¯“Œ™£,

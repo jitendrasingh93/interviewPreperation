@@ -1,0 +1,15 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Â¼Õ¿8Óä¦€¶,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(õ¨¬ùûÿÿÿÿ8ö†´€¶,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ıÅ²»8û¶¢€¶,
+Ysquid:S1197"8Move the array designator from the variable to the type.( ü¤Åÿÿÿÿÿ8“ì„€¶,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ô¶ğúşÿÿÿÿ8Á¬”€¶,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(“Šö†ÿÿÿÿÿ8¼È£€¶,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(°±¤ë8Ëƒ€¶,
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ëëŞãÿÿÿÿÿ

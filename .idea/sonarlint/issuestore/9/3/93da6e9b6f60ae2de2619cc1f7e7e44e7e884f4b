@@ -1,0 +1,12 @@
+
+Gsquid:S1905"+Remove this unnecessary cast to "DeepCopy".(¦©â¤8æ£»î+
+|squid:S1488"`Immediately return this expression instead of assigning it to the temporary variable "deepCopy".(ìÓÎ8ŠÎÊî+
+nsquid:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(’Ÿ‚ 8ÁÁ»î+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ğ˜¿‡8¨ËÓî+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ò­©‰úÿÿÿÿ8ë´ÙÂ†,
+csquid:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(’Ÿ‚ 8ğ§¼î+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ıîË‘8¥¶Ôî+
+<squid:S2129" Remove this "String" constructor(ìÓÎ8ÖÕÛî+

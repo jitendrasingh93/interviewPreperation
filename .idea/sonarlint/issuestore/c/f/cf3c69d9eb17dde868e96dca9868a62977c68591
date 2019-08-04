@@ -1,0 +1,16 @@
+
+bsquid:S3027"FPut single-quotes around '+' to use the faster "indexOf(char)" method.(Í¢Ë8åŒ”Ó,
+gsquid:S3027"FPut single-quotes around '(' to use the faster "indexOf(char)" method.(ôí¦Àüÿÿÿÿ8åŒ”Ó,
+bsquid:S3027"FPut single-quotes around ')' to use the faster "indexOf(char)" method.(åæ¿¬8åŒ”Ó,
+gsquid:S3027"FPut single-quotes around '*' to use the faster "indexOf(char)" method.(çé¶‚ıÿÿÿÿ8åŒ”Ó,
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦¤°x8ºª¥‘Ó,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8åŒ”Ó,
+dsquid:S1226"HIntroduce a new variable instead of reusing the parameter "finalString".(É²ÿË8åŒ”Ó,
+gsquid:S3027"FPut single-quotes around '/' to use the faster "indexOf(char)" method.(¤Üãÿÿÿÿÿ8åŒ”Ó,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(»¿´»ıÿÿÿÿ8åŒ”Ó,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ğÜ•Åùÿÿÿÿ8ú‰–”Ó,
+bsquid:S3027"FPut single-quotes around '-' to use the faster "indexOf(char)" method.(¢ë¸—8åŒ”Ó,
+]squid:S1126"AReplace this if-then-else statement by a single return statement.(íòãÕ8åŒ”Ó,
+isquid:S1226"HIntroduce a new variable instead of reusing the parameter "finalString".(™•æ²ÿÿÿÿÿ8åŒ”Ó,
+asquid:S1226"EIntroduce a new variable instead of reusing the parameter "finalStr".(êØ–­8åŒ”Ó,

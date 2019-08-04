@@ -1,0 +1,17 @@
+
+Ysquid:S1197"8Move the array designator from the variable to the type.(™¥æøÿÿÿÿ8Şÿíø¤,
+Ysquid:S1197"8Move the array designator from the variable to the type.(›¿Ã—üÿÿÿÿ8Şÿíø¤,
+Csquid:S1659""Declare "temp" on a separate line.(ÑÊÈÿÿÿÿÿ8Şÿíø¤,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(”¨¸Çøÿÿÿÿ8Ö™Áº©,
+Ysquid:S1197"8Move the array designator from the variable to the type.(·¯Œñûÿÿÿÿ8Ó«Œ¥,
+Gsquid:S1481"&Remove this unused "i" local variable.(ÂØÊãûÿÿÿÿ8¿º Í©,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(º¼É°8Ó«Œ¥,
+dsquid:S3518"CMake sure this expression can't be zero before doing this division.(ÂØÊãûÿÿÿÿ8¿º Í©,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(÷ßíûÿÿÿÿ8¿º Í©,
+Ksquid:S2201"*The return value of "charAt" must be used.(Øšµıÿÿÿÿ8¿º Í©,
+Tsquid:S1197"8Move the array designator from the variable to the type.(ÓÉ†8Şÿíø¤,
+Vsquid:S1854"5Remove this useless assignment to local variable "i".(ÂØÊãûÿÿÿÿ8¿º Í©,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒø¶Òıÿÿÿÿ8¿º Í©,

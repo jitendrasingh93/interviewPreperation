@@ -1,0 +1,19 @@
+
+Gsquid:S1481"&Remove this unused "a" local variable.(ÜÅº¨ıÿÿÿÿ8¯Åéï÷+
+1squid:S1220""Move this file to a named package.
+Asquid:S2129" Remove this "String" constructor(üŸÊ“ÿÿÿÿÿ8³³Šõö+
+Wsquid:S1854"6Remove this useless assignment to local variable "s3".(üŸÊ“ÿÿÿÿÿ8³³Šõö+
+Vsquid:S1854"5Remove this useless assignment to local variable "a".(ÜÅº¨ıÿÿÿÿ8¯Åéï÷+
+œsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¥ê–R8µãÃöö+
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ß•µ†øÿÿÿÿ8ÕàÀöö+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Š÷Ôİ8ò”¿ôö+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(æÿŒ«8¯Åéï÷+
+Asquid:S2129" Remove this "String" constructor(€Ş—Şÿÿÿÿÿ8ËçĞôö+
+Hsquid:S1481"'Remove this unused "s3" local variable.(üŸÊ“ÿÿÿÿÿ8³³Šõö+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŸÖ³úùÿÿÿÿ8ÓçÆôö+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ëêõûÿÿÿÿ8¯Åéï÷+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(«ç¤Âÿÿÿÿÿ8¾¹Âôö+

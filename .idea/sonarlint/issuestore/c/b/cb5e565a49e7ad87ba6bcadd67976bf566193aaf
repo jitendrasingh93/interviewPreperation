@@ -1,0 +1,19 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¢Öûùÿÿÿÿ8ÂóçÇë+
+Ksquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Ó¸Ì,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ú¤Û§ùÿÿÿÿ8ÂóçÇë+
+\squid:S2259"AA "NullPointerException" could be thrown; "oos" is nullable here.(İÛĞK8½ŸéÇë+
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(æÛº18ÂóçÇë+
+Fsquid:S00108")Either remove or fill this block of code.(”ı¾8Ù™ÖÇë+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Õ§È‹8ÂóçÇë+
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹ÎŞu8ÂóçÇë+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ç»“Ø8ÂóçÇë+
+Ksquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Ó¸Ì,
+Fsquid:S00108")Either remove or fill this block of code.(”ı¾8ÂóçÇë+
+]squid:S2259"AA "NullPointerException" could be thrown; "ois" is nullable here.(¨ÿÃš8ÂóçÇë+

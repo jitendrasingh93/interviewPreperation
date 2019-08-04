@@ -1,0 +1,17 @@
+
+Rsquid:S2696"6Make the enclosing method "static" or remove this set.(ùŞ¦„8•¯Ó¹Á,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÈÎà³ÿÿÿÿÿ8‡†ó»Ê,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(•¾°ñ8ÕĞ¤¹Á,
+Rsquid:S2696"6Make the enclosing method "static" or remove this set.(ùŞ¦„8ÁœÀ¹Á,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼Æèğüÿÿÿÿ8”ìô»Ê,
+Wsquid:S2696"6Make the enclosing method "static" or remove this set.(ÌÒŠÁúÿÿÿÿ8¾ÕÂ¹Á,
+Rsquid:S2696"6Make the enclosing method "static" or remove this set.(å†ëü8æàÖ¹Á,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ØÜ£š8ÃÌÚ¹Á,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ú…¤üÿÿÿÿ8¼ÃĞ¹Á,
+`squid:S2583"DChange this condition so that it does not always evaluate to "false"(ôñş—8ÌªÌ¹Á,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(•¾°ñ8ô­Õ¹Á,

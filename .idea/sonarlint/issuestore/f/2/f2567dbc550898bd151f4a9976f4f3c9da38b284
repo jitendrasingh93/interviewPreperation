@@ -1,0 +1,7 @@
+
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹«¬ªüÿÿÿÿ
+[squid:S2259"FA "NullPointerException" could be thrown; "previous" is nullable here.(…ùØŸ
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ë÷Î‹ûÿÿÿÿ
+9squid:S2676"Use the original value instead.(áˆˆèüÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(è•êÀ

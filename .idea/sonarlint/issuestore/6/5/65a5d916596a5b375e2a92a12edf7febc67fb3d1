@@ -1,0 +1,11 @@
+
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(¯Æ²˜
+Msquid:S1602",Remove useless curly braces around statement(¥£Û‡ıÿÿÿÿ8æÒĞ£Á,
+Msquid:S1602",Remove useless curly braces around statement(Ä®öÿÿÿÿÿ8›™ï£Á,
+Msquid:S1602",Remove useless curly braces around statement(éÓî¬ûÿÿÿÿ8‹Šú£Á,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(„Üş·8›™ï£Á,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(å²ÖÑÿÿÿÿÿ8›™ï£Á,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñ·™¶ÿÿÿÿÿ8æÒĞ£Á,

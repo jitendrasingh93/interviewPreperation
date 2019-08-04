@@ -1,0 +1,9 @@
+
+1squid:S1220""Move this file to a named package.
+˜squid:S2681"|This line will not be executed in a loop; only the first line of this 2-line block will be. The rest will execute only once.(¨³Öá8é³òŒ¨,
+Tsquid:S1197"8Move the array designator from the variable to the type.(“·¦ƒ8é³òŒ¨,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆÂ¸¯8é³òŒ¨,
+Ysquid:S1197"8Move the array designator from the variable to the type.(çæººüÿÿÿÿ8é³òŒ¨,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¯Ó¶»8é³òŒ¨,
+Fsquid:S2157"%Add a "clone()" method to this class.(Üˆßþÿÿÿÿ8é³òŒ¨,

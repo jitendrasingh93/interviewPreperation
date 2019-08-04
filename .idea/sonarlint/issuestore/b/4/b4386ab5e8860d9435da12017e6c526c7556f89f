@@ -1,0 +1,13 @@
+
+@squid:S1659"Declare "j" on a separate line.(ÿ¦æ‡øÿÿÿÿ8èÃòÿ,
+Tsquid:S1197"8Move the array designator from the variable to the type.(´•óĞ8ùÁôÿ,
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÇÑ×8ÔÆ€,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(õ§şï8ò˜€,
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ«³¹ÿÿÿÿÿ8Ğì²‹,
+Ysquid:S1197"8Move the array designator from the variable to the type.(‘šŒùÿÿÿÿ8İÑ€,
+qsquid:S1450"PRemove the "i" field and declare it as a local variable in the relevant methods.(ÿ¦æ‡øÿÿÿÿ8Ğì²‹,
+Tsquid:S1197"8Move the array designator from the variable to the type.(ªÌ¼8çŸ‹€,
+qsquid:S1450"PRemove the "j" field and declare it as a local variable in the relevant methods.(ÿ¦æ‡øÿÿÿÿ8Ğì²‹,
+[squid:HiddenFieldCheck"4Rename "i" which hides the field declared at line 8.(ŸğÑµ8£ê¤€,

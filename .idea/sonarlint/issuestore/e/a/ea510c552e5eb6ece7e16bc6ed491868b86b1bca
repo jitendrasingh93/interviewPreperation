@@ -1,0 +1,7 @@
+
+ˆ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK8Ì÷£Â†,
+Ysquid:S1197"8Move the array designator from the variable to the type.(Ü¬²×ùÿÿÿÿ8Ì÷£Â†,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ğ³ğ8Ì÷£Â†,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã­Çù8Ì÷£Â†,

@@ -1,0 +1,22 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8¸õı™,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÆÊ¥²8Éë’š,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ìÍ¦‡8ï°µš,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(§Ã†ìıÿÿÿÿ8åƒš,
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÂÒÍêøÿÿÿÿ8¹¹‰ñ¦,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿İå¦8ª—¦š,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘ñÙùıÿÿÿÿ8ï•Ñš,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(’‰ßÇşÿÿÿÿ8Õ¶ú™,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ü†×åşÿÿÿÿ8‹Ïš,
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(·Óú8¹¹‰ñ¦,
+Dsquid:S1604"(Make this anonymous inner class a lambda(–ÜÜ„8¹¹‰ñ¦,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Î’ÛÚ8¿Œ‡š,
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(¢¡ÿ 

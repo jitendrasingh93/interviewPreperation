@@ -1,0 +1,8 @@
+
+9squid:S1165"Make this "name" field final.(Ê§…ñ8÷ùêñ+
+tsquid:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(’¾âùÿÿÿÿ8ğÍƒñ+
+isquid:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(’¾âùÿÿÿÿ8ğÍƒñ+
+Asquid:S2129" Remove this "String" constructor(˜¬ä…üÿÿÿÿ8ğÍƒñ+
+8squid:S1165"Make this "age" field final.(¯Ó¶»8÷ùêñ+
+‚squid:S1488"aImmediately return this expression instead of assigning it to the temporary variable "testClone".(˜¬ä…üÿÿÿÿ8ğÍƒñ+
+1squid:S1220""Move this file to a named package.

@@ -1,0 +1,114 @@
+<head>
+    <title>JSON Basic</title>
+</head>
+
+<body>
+<p>Display JSON file on HTML page:</p>
+<p id="demo"></p>
+<button onclick="displayInfo()">Display</button>
+<script>
+    var i;
+    var peopleinfo = "";
+    var people = [{
+        "fname": "Adam",
+        "lname": "Schmitt",
+        "relation": "Brother",
+        "relationid": "1"
+    }, {
+        "fname": "Andrew",
+        "lname": "Name",
+        "relation": "Brother",
+        "relationid": "1"
+    }, {
+        "fname": "Jenna",
+        "lname": "Name",
+        "relation": "Wife",
+        "relationid": "2"
+    }, {
+        "fname": "Gary",
+        "lname": "Name",
+        "relation": "Father",
+        "relationid": "3"
+    }, {
+        "fname": "Judy",
+        "lname": "Name",
+        "relation": "Mother",
+        "relationid": "4"
+    }, {
+        "fname": "Justin",
+        "lname": "Name",
+        "relation": "Friend",
+        "relationid": "5"
+    }, {
+        "fname": "Billy",
+        "lname": "Name",
+        "relation": "Friend",
+        "relationid": "5"
+    }, {
+        "fname": "Robbie",
+        "lname": "Name",
+        "relation": "Friend",
+        "relationid": "5"
+    }, {
+        "fname": "Dylan",
+        "lname": "Name",
+        "relation": "Friend",
+        "relationid": "5"
+    }, {
+        "fname": "Zach",
+        "lname": "Name",
+        "relation": "Friend",
+        "relationid": "5"
+    }];
+    for (i = 0; i < people.length; i++) {
+
+        peopleinfo += people[i].fname + "<br>" + people[i].lname + "<br>" + people[i].relation + "<br>" + people[i].relationid + "<br><p>********</p>";
+    }
+
+    function displayInfo() {
+        document.getElementById("demo").innerHTML = peopleinfo;
+    }
+</script>
+
+<script>
+var request = new XMLHttpRequest();
+request.open('GET', '/my/url', true); // YOUR EXTERNAL JSON URL
+
+request.onload = function() {
+if (request.status >= 200 && request.status < 400) {
+// Success!
+var data = JSON.parse(request.responseText);
+var link;
+for (var t = 0; t < data.people.length; t++){
+link = document.createElement("a"+t);
+var ulist = document.getElementById("list");
+var newItem = document.createElement("li");
+newItem.appendChild(link);
+ulist.appendChild(newItem);
+link.textContent = 'First Name: '+data.people[t].fname + ', Last Name: ' +data.people[t].lname;
+link.setAttribute('data-ind', t); // ADDED A DATA ATTRIBUTE TO STORE A INDEX VALUE
+if (typeof window.addEventListener === 'function'){
+(function (_td) {
+link.addEventListener('click', function(){
+var indexId = this.getAttribute('data-ind'); //GETTING DATA ATTRIBUTE VALUE
+indexId =  parseInt(indexId); //PARSE FROM STRING TO INTEGER
+alert(data.people[indexId].relation); // YOU WILL GET THE ACTUAL RELATION VALUE.
+
+});
+})(link);
+}
+}
+} else {
+// We reached our target server, but it returned an error
+
+}
+};
+
+request.onerror = function() {
+// There was a connection error of some sort
+};
+
+request.send();
+</script>
+
+</body>

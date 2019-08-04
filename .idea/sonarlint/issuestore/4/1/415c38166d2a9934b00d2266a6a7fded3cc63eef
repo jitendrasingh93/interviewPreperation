@@ -1,0 +1,54 @@
+
+Isquid:S1125"(Remove the literal "true" boolean value.(¢íÏîşÿÿÿÿ8Ò¥ìŸÒ,
+Jsquid:S1125")Remove the literal "false" boolean value.(™Ä×öùÿÿÿÿ8Ò¥ìŸÒ,
+Isquid:S1125"(Remove the literal "true" boolean value.(¸Ğˆ±ûÿÿÿÿ8Ò¥ìŸÒ,
+Xsquid:S2589"7Remove this expression which always evaluates to "true"(ĞÑûîÿÿÿÿÿ8¦Ó¤ Ò,
+Xsquid:S2589"7Remove this expression which always evaluates to "true"(™Ä×öùÿÿÿÿ8Ò¥ìŸÒ,
+Isquid:S1125"(Remove the literal "true" boolean value.(¸Ğˆ±ûÿÿÿÿ8Ò¥ìŸÒ,
+Ksquid:S1481"*Remove this unused "regex" local variable.(üÁø¹ÿÿÿÿÿ8÷¢ŸÒ,
+Dsquid:S1125"(Remove the literal "true" boolean value.(¨šˆõ8äëùŸÒ,
+Esquid:S1125")Remove the literal "false" boolean value.(ğ¿ñ8Ò¥ìŸÒ,
+Isquid:S1125"(Remove the literal "true" boolean value.(Šš”×ùÿÿÿÿ8°©  Ò,
+Ysquid:S2589"8Remove this expression which always evaluates to "false"(Šš”×ùÿÿÿÿ8·Üƒ Ò,
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒı…u8ÆÙ¼Ò,
+Zsquid:S1854"9Remove this useless assignment to local variable "regex".(üÁø¹ÿÿÿÿÿ8÷¢ŸÒ,
+1squid:S1220""Move this file to a named package.
+Dsquid:S1125"(Remove the literal "true" boolean value.(ğ¿ñ8Ñù÷ŸÒ,
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(’¡Ş²ùÿÿÿÿ8¯§ÒÒ,
+Psquid:S1172"/Remove this unused method parameter "equation".(’¡Ş²ùÿÿÿÿ8¯§ÒÒ,
+†squid:UselessImportCheck"XRemove this unused import 'jdk.nashorn.internal.runtime.regexp.joni.constants.MetaChar'.(ÎŠÃ¶üÿÿÿÿ8†Ò,
+Jsquid:S1125")Remove the literal "false" boolean value.(ĞÑûîÿÿÿÿÿ8Üİ‚ Ò,
+Jsquid:S1125")Remove the literal "false" boolean value.(ñˆ¨§úÿÿÿÿ8Ò¥ìŸÒ,
+Dsquid:S1125"(Remove the literal "true" boolean value.(¨šˆõ8ƒ€ğŸÒ,
+Isquid:S1125"(Remove the literal "true" boolean value.(ñˆ¨§úÿÿÿÿ8Ò¥ìŸÒ,
+Tsquid:S2589"8Remove this expression which always evaluates to "false"(ğ¿ñ8Ò¥ìŸÒ,
+Ysquid:S2589"8Remove this expression which always evaluates to "false"(ñˆ¨§úÿÿÿÿ8Ò¥ìŸÒ,
+Ysquid:S2589"8Remove this expression which always evaluates to "false"(¢íÏîşÿÿÿÿ8Ò¥ìŸÒ,
+Isquid:S1481"(Remove this unused "per" local variable.(œ’éøÿÿÿÿ8Ò¥ìŸÒ,
+Isquid:S1125"(Remove the literal "true" boolean value.(¢íÏîşÿÿÿÿ8Ò¥ìŸÒ,
+Isquid:S1125"(Remove the literal "true" boolean value.(ñˆ¨§úÿÿÿÿ8Ò¥ìŸÒ,
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÛşÉ›şÿÿÿÿ8ƒ€ğŸÒ,
+Isquid:S1125"(Remove the literal "true" boolean value.(™Ä×öùÿÿÿÿ8Ò¥ìŸÒ,
+Dsquid:S1125"(Remove the literal "true" boolean value.(ÓÛí8ÎÃ® Ò,
+Isquid:S1125"(Remove the literal "true" boolean value.(™Ä×öùÿÿÿÿ8Ò¥ìŸÒ,
+Dsquid:S1125"(Remove the literal "true" boolean value.(ÓÛí8¯˜« Ò,
+Dsquid:S1481"(Remove this unused "big" local variable.(³Æ›ú8Ò¥ìŸÒ,
+Dsquid:S1125"(Remove the literal "true" boolean value.(¨šˆõ8Ì‘ùŸÒ,
+Dsquid:S1125"(Remove the literal "true" boolean value.(ğ¿ñ8Ò¥ìŸÒ,
+Isquid:S1125"(Remove the literal "true" boolean value.(¢íÏîşÿÿÿÿ8Ò¥ìŸÒ,
+Isquid:S1125"(Remove the literal "true" boolean value.(Šš”×ùÿÿÿÿ8°©  Ò,
+Tsquid:S1197"8Move the array designator from the variable to the type.(÷›ş¸8÷¢ŸÒ,
+Dsquid:S1125"(Remove the literal "true" boolean value.(¨šˆõ8îèñŸÒ,
+Tsquid:S2589"8Remove this expression which always evaluates to "false"(¨šˆõ8ƒ€ğŸÒ,
+Dsquid:S1125"(Remove the literal "true" boolean value.(ğ¿ñ8Ò¥ìŸÒ,
+\squid:UnusedPrivateMethod"-Remove this unused private "equation" method.(’¡Ş²ùÿÿÿÿ8¯§ÒÒ,
+Isquid:S1125"(Remove the literal "true" boolean value.(ĞÑûîÿÿÿÿÿ8Üİ‚ Ò,
+bsquid:S1126"AReplace this if-then-else statement by a single return statement.(Šš”×ùÿÿÿÿ8ßâ‘ Ò,
+Ysquid:S2589"8Remove this expression which always evaluates to "false"(¸Ğˆ±ûÿÿÿÿ8Ò¥ìŸÒ,
+Dsquid:S1125"(Remove the literal "true" boolean value.(ğ¿ñ8¡õŸÒ,
+Isquid:S1125"(Remove the literal "true" boolean value.(ĞÑûîÿÿÿÿÿ8·Üƒ Ò,
+Tsquid:S2589"8Remove this expression which always evaluates to "false"(ÓÛí8ÎÃ® Ò,
+Isquid:S1481"(Remove this unused "cur" local variable.(èŒ¾ûÿÿÿÿ8Ò¥ìŸÒ,
+Esquid:S1125")Remove the literal "false" boolean value.(¨šˆõ8òÿŸÒ,
+Dsquid:S1125"(Remove the literal "true" boolean value.(ÓÛí8¯˜« Ò,

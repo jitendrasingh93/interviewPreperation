@@ -1,0 +1,18 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾úÜª8şØÂë+
+csquid:S2259"BA "NullPointerException" could be thrown; "oout" is nullable here.(˜Í¾šøÿÿÿÿ8şØÂë+
+Dsquid:S1148"#Use a logger to log this exception.(Ú¸ÿÿÿÿÿ8şØÂë+
+jsquid:S2259"IA "NullPointerException" could be thrown; "inputStream" is nullable here.(¶ò†Áşÿÿÿÿ8•ëëÂë+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥§Ş8şØÂë+
+`squid:S2147"DCombine this catch with the one at line 55, which has the same body.(ıàÑÎ8¢‡¸Ì,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ü§‘Úÿÿÿÿÿ8‹ÏéÂë+
+Ksquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8¢‡¸Ì,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8·ÅƒÃë+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ş¡›î8¸†òÂë+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8·ÅƒÃë+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÍîæÂë+
+Ksquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8¢‡¸Ì,

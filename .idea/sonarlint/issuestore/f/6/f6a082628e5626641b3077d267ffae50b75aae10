@@ -1,0 +1,10 @@
+
+Psquid:S2095"4Close this "FileOutputStream" in a "finally" clause.(¨ºù8ëÄ·²«,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ëÚÎüÿÿÿÿ8†Å²«,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(†õÍá8Ê«ğ±«,
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(›™Ğ÷
+Tsquid:S2095"3Close this "FileInputStream" in a "finally" clause.(£ŠÇşÿÿÿÿ8ëÄ·²«,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(åµ‡8úÔì±«,

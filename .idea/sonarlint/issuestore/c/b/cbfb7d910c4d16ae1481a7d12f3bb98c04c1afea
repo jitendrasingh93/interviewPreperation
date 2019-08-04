@@ -1,0 +1,32 @@
+
+]squid:S1226"AIntroduce a new variable instead of reusing the parameter "node".(—ÏÚ8Ò™ìù¼,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚„¯÷8‰Òø¼,
+Vsquid:S2209"5Change this instance-reference to a static reference.(ù¾êûÿÿÿÿ8Œçù¼,
+lsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ã¦Ò8¬æÉø¼,
+]squid:S1226"AIntroduce a new variable instead of reusing the parameter "node".(—ÏÚ8Ò™ìù¼,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ß’Ã¶8ªøàù¼,
+Vsquid:S2209"5Change this instance-reference to a static reference.(ÿ­äâûÿÿÿÿ8Œçù¼,
+Zsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(äÛŸ–8‰ÂĞø¼,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚„¯÷8Å¼÷¹Á,
+bsquid:S1226"AIntroduce a new variable instead of reusing the parameter "node".(„·ıáøÿÿÿÿ8Ò™ìù¼,
+Qsquid:S2209"5Change this instance-reference to a static reference.(Ëòó8Œçù¼,
+bsquid:S1226"AIntroduce a new variable instead of reusing the parameter "node".(ô¥¼Ëøÿÿÿÿ8Ò™ìù¼,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚„¯÷8Ô»ü¹Á,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(…Óİ®8Üºáù¼,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(›–è‹ûÿÿÿÿ8Ì›€ºÁ,
+?squid:S1659"#Declare "right" on a separate line.(çùà¶8Ã¼µø¼,
+Vsquid:S2209"5Change this instance-reference to a static reference.(é•âšûÿÿÿÿ8Œçù¼,
+Qsquid:S2209"5Change this instance-reference to a static reference.(ÈµĞœ8Œçù¼,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(òºù‡8£–ºÁ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(É›ıÆ8ş­¹Ê,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚„¯÷8’ÂÜù¼,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(˜ØÜÉ8óëù¼,
+Vsquid:S2209"5Change this instance-reference to a static reference.(‹œ·Áøÿÿÿÿ8Œçù¼,

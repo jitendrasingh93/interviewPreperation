@@ -1,0 +1,10 @@
+
+Vsquid:S1191"5Use classes from the Java API instead of Sun classes.(•“´Şÿÿÿÿÿ8°Ì²‡ª,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(œìÒŞûÿÿÿÿ8Õôêêø+
+Ysquid:S1197"8Move the array designator from the variable to the type.(Œ‹÷àıÿÿÿÿ8ÁÂÙêø+
+^squid:UselessImportCheck"0Remove this unused import 'sun.tools.tree.Node'.(•“´Şÿÿÿÿÿ8°Ì²‡ª,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥­ëøÿÿÿÿ8³°’ëø+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾²û¼ûÿÿÿÿ8É®“ëø+

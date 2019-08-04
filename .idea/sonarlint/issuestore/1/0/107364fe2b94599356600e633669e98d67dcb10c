@@ -1,0 +1,17 @@
+
+Qsquid:S1854"5Remove this useless assignment to local variable "s".(¼şñ³8»ŒÉ±Ë,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.( ™šš8È´¸Ÿî+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(´†ûÿúÿÿÿÿ8ÆŸî+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(½â¯8Ä‘Ÿî+
+`squid:S1854"?Remove this useless assignment to local variable "badaInteger".(ĞÙæôùÿÿÿÿ8»ŒÉ±Ë,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ª‰İ8»ŒÉ±Ë,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(­•ÉÉùÿÿÿÿ8È´¸Ÿî+
+=squid:S2129"!Remove this "Integer" constructor(¨›æÌ8»û¯Ÿî+
+Asquid:S2129" Remove this "String" constructor(“–½Àşÿÿÿÿ8»û¯Ÿî+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ù±üØ8äÉû¬,

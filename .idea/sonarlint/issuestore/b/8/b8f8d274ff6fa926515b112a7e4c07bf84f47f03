@@ -1,0 +1,10 @@
+
+Qsquid:S2209"5Change this instance-reference to a static reference.(Û£åØ8ğÁ›Ü©,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹Ùíÿùÿÿÿÿ8ÔÆ¬Ü©,
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ğÁ›Ü©,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ğÁ›Ü©,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Çğ¹ø8¢èú×©,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(«¬ÚÅ8òÒ¢Ü©,

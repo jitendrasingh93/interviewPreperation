@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans
+        xmlns="http://www.springframework.org/schema/beans"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:p="http://www.springframework.org/schema/p"
+        xsi:schemaLocation="http://www.springframework.org/schema/beans
+               http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+    <bean id="studentbean" class="spring.dipendency.injection.Student">
+        <!--<property name="rollNumber"  value="12"/>
+        <property name="name" value="jitendra singh"/>
+        <property name="sclass" value = "MCA"/>-->
+        <constructor-arg value="Jeetu"/>
+    </bean>
+
+    <bean id="question" class="spring.dipendency.injection.Question">
+        <constructor-arg value="12"/>
+        <constructor-arg value="jeetu"/>
+        <constructor-arg>
+            <list>
+                <value>test-1</value>
+                <value>test-2</value>
+                <value>test-3</value>
+                <value>test-4</value>
+                <value>test-5</value>
+            </list>
+        </constructor-arg>
+    </bean>
+
+    <bean id="question1" class="spring.dipendency.injection.Question">
+        <constructor-arg value="123"/>
+        <constructor-arg value="map obj"/>
+        <constructor-arg>
+        <map>
+            <entry key-ref="answer" value-ref="user"></entry>
+        </map>
+        </constructor-arg>
+
+    </bean>
+<!--constructor injection with map-->
+    <bean id="ciwithmap" class="spring.dipendency.injection.CIWithMap">
+        <constructor-arg value="13"/>
+        <constructor-arg value="Map"/>
+        <constructor-arg>
+            <map>
+                <entry key="1" value="map-1"></entry>
+                <entry key="2" value="map-2"></entry>
+                <entry key="3" value="map-3"></entry>
+                <entry key="4" value="map-4"></entry>
+            </map>
+        </constructor-arg>
+    </bean>
+
+    <bean id="answer" class="spring.dipendency.injection.Answer">
+        <constructor-arg value="1234"/>
+        <constructor-arg value="This is my answer"/>
+        <constructor-arg value="25/12/2017"/>
+    </bean>
+
+    <bean id="user" class="spring.dipendency.injection.User">
+        <constructor-arg value="33"/>
+        <constructor-arg value="Alex"/>
+        <constructor-arg value="alex@ephesoft.com"/>
+    </bean>
+
+
+    <!--ci with inhereting bean-->
+
+    <bean id="employee" class="spring.dipendency.injection.ci.inheritingbean.Employee">
+        <constructor-arg value="11"/>
+        <constructor-arg value="abc"/>
+    </bean>
+
+    <bean id="address" class="spring.dipendency.injection.ci.inheritingbean.Address">
+        <constructor-arg value="21,Lohianagar"/>
+        <constructor-arg value="gurgaon"/>
+        <constructor-arg value="haryana"/>
+        <constructor-arg value="India"/>
+    </bean>
+
+    <bean id="employee1" class="spring.dipendency.injection.ci.inheritingbean.Employee" parent="employee">
+        <constructor-arg ref="address"></constructor-arg>
+    </bean>
+
+    <!--using getter and setter -->
+
+    <bean id="addr" class="spring.dipendency.injection.setter.injection.Address">
+        <property name="city" value="tundla"/>
+        <property name="state" value="UP"/>
+        <property name="country" value="india"/>
+    </bean>
+
+    <bean id="emp" class="spring.dipendency.injection.setter.injection.Employee">
+        <property name="id" value="29"></property>
+        <property name="name" value="Rahul"></property>
+        <property name="address" value="delhi"></property>
+        <property name="addr" ref="addr"/>
+    </bean>
+
+    <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+        <property name="prefix" value="/WEB-INF/jsp/" />
+        <property name="suffix" value=".jsp" />
+    </bean>
+</beans>

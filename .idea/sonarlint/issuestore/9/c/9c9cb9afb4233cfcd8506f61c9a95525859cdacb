@@ -1,0 +1,7 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Õò¼óýÿÿÿÿ8—Ô—ï¦,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ëô»ž8²¸†œî+
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Åâ¢çýÿÿÿÿ8Áè•âî+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ßÞù”ûÿÿÿÿ8Þ¬–œî+

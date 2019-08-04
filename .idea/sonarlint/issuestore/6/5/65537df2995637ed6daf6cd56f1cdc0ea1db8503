@@ -1,0 +1,15 @@
+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ç½üýÿÿÿÿ8«àä·ª,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ8›°¸ª,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ïéÀ‹ýÿÿÿÿ8âÑ¸ª,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8Ÿúž¸ª,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ß°ËÐ8÷ùƒ¶ª,
+Hsquid:S1481"'Remove this unused "sc" local variable.(ðÛ²¸øÿÿÿÿ8¦Œ¸ª,
+Wsquid:S1854"6Remove this useless assignment to local variable "sc".(ðÛ²¸øÿÿÿÿ8¦Œ¸ª,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8æ ¸ª,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÁÜÇ‘8¦Œ¸ª,

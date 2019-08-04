@@ -1,0 +1,23 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(»‚»Ô8¬ ¾©,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(İÇ¼ëøÿÿÿÿ8ë‹Í©,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(İÇ¼ëøÿÿÿÿ8 şÆ©,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(»‚»Ô8å›»©,
+Bsquid:S1481"&Remove this unused "s" local variable.(ë—ê„8­†ş©,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(µÙÂï8âæ¤À¨,
+Qsquid:S1854"5Remove this useless assignment to local variable "s".(ë—ê„8­†ş©,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ğ¸ßø8¶ïõ©,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¡·¿„8…Í²©,
+]squid:UselessImportCheck"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8ŞÁ´©,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÆá¯ùÿÿÿÿ8µ™Ä©,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¡Ò¢¦úÿÿÿÿ8ŞÚÂ©,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÈóÃ¼8»ğŸÁ¨,

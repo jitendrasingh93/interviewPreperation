@@ -1,0 +1,12 @@
+
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ş”Î¶şÿÿÿÿ
+Osquid:S2209"5Change this instance-reference to a static reference.(ÒÌ¸¹şÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ëæ›¿úÿÿÿÿ
+Jsquid:S2209"5Change this instance-reference to a static reference.(¦šá¦
+Osquid:S2209"5Change this instance-reference to a static reference.(ÛŸÇ¬úÿÿÿÿ
+Jsquid:S2209"5Change this instance-reference to a static reference.(…ƒ£
+Osquid:S2209"5Change this instance-reference to a static reference.(¨’°×ûÿÿÿÿ
+Vsquid:S1226"AIntroduce a new variable instead of reusing the parameter "node".(ÒÎÉû
+Osquid:S2209"5Change this instance-reference to a static reference.(âÙÊûÿÿÿÿ

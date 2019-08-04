@@ -1,0 +1,6 @@
+
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(λλήγÿÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(Η’Ηκ8τ™ƒÿµ,
+qsquid:S1450"URemove the "reader" field and declare it as a local variable in the relevant methods.(ϊ§Βµ8τ™ƒÿµ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤Ψ±ώÿÿÿÿ8„µÿµ,

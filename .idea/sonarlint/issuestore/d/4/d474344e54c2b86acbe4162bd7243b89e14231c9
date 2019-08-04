@@ -1,0 +1,8 @@
+
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8 ØŞ·,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ª•‰”ÿÿÿÿÿ8 ØŞ·,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8 ØŞ·,
+{squid:S1217"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(Íïó8Õ³Ø·,
+|squid:S1217"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(À÷Í½8“ÓĞ·,

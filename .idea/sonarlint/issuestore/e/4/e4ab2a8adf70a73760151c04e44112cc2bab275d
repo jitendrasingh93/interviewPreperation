@@ -1,0 +1,13 @@
+
+Tsquid:S1197"8Move the array designator from the variable to the type.(µæ¹â8¼ƒ©÷¼,
+Tsquid:S1197"8Move the array designator from the variable to the type.(ˆ€Ñø8‚ ¾ù,
+Dsquid:S1481"(Remove this unused "tmp" local variable.(ÒØ§Ö8‰ö«¾ù,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬™ã´üÿÿÿÿ8ğ…Ì³ú,
+Ssquid:S1854"7Remove this useless assignment to local variable "tmp".(ÒØ§Ö8Üù®¾ù,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(š‚È°øÿÿÿÿ8˜¤÷¼,
+Ysquid:S1197"8Move the array designator from the variable to the type.(ÿŞ·ğùÿÿÿÿ8ªö­¾ù,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹Ì‚´ÿÿÿÿÿ8Ñ ÷¼,
+[squid:S1854":Remove this useless assignment to local variable "length".(üƒİ‡ÿÿÿÿÿ8òÛ‰Àù,

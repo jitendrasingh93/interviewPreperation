@@ -1,0 +1,22 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(°Òâ³øÿÿÿÿ8µşöáñ+
+Qsquid:S1854"5Remove this useless assignment to local variable "a".(¶ªèí8Öêâñ+
+¤%squid:RedundantThrowsDeclarationCheck"iRemove the declaration of thrown exception 'java.lang.NullPointerException' which is a runtime exception.(Õı÷óøÿÿÿÿ8ùäĞâñ+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÒÉÛ¯8€Ç÷áñ+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Û÷òüÿÿÿÿ8Ğ­÷áñ+
+Vsquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Ğ­÷áñ+
+Vsquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8™÷áñ+
+Ysquid:S1197"8Move the array designator from the variable to the type.(Õı÷óøÿÿÿÿ8˜ñáñ+
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ñ…,8ÁÇ€âñ+
+_squid:S3518"CMake sure this expression can't be zero before doing this division.(¶ªèí8É¢ÿáñ+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼´íÒüÿÿÿÿ8 ’öáñ+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(·º¯£ûÿÿÿÿ8™÷áñ+
+Vsquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8µşöáñ+
+Vsquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8€Ç÷áñ+
+1squid:S1220""Move this file to a named package.

@@ -1,0 +1,6 @@
+
+Gsquid:S1481"&Remove this unused "n" local variable.(Ù€¤£ıÿÿÿÿ8Õóº€Í,
+Ysquid:S1197"8Move the array designator from the variable to the type.(Í²”áùÿÿÿÿ8ø÷»€Í,
+Vsquid:S1854"5Remove this useless assignment to local variable "n".(Ù€¤£ıÿÿÿÿ8Õóº€Í,
+Ssquid:S1197"8Move the array designator from the variable to the type.(Òú8Éş¶€Í,
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Í²”áùÿÿÿÿ8Şµµ€Í,

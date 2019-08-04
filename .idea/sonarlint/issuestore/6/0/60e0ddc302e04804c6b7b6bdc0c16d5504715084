@@ -1,0 +1,18 @@
+
+Asquid:S2129" Remove this "String" constructor(´Æò‡ùÿÿÿÿ8­Ë‹î+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(»Ñªøÿÿÿÿ8­Ë‹î+
+Hsquid:S1481"'Remove this unused "s5" local variable.(´‘Ïïúÿÿÿÿ8­Ë‹î+
+Csquid:S1481"'Remove this unused "s2" local variable.(ŸŞ‰8­Ë‹î+
+Rsquid:S1854"6Remove this useless assignment to local variable "s2".(ŸŞ‰8­Ë‹î+
+Wsquid:S1854"6Remove this useless assignment to local variable "s5".(´‘Ïïúÿÿÿÿ8­Ë‹î+
+Hsquid:S1481"'Remove this unused "s1" local variable.(¢‹öÚøÿÿÿÿ8­Ë‹î+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÀÔóîúÿÿÿÿ8­Ë‹î+
+<squid:S2129" Remove this "String" constructor(ŸŞ‰8­Ë‹î+
+Hsquid:S1481"'Remove this unused "s4" local variable.(´Æò‡ùÿÿÿÿ8­Ë‹î+
+Hsquid:S1481"'Remove this unused "s3" local variable.(Ó‹¼Óşÿÿÿÿ8­Ë‹î+
+Wsquid:S1854"6Remove this useless assignment to local variable "s4".(´Æò‡ùÿÿÿÿ8­Ë‹î+
+Wsquid:S1854"6Remove this useless assignment to local variable "s1".(¢‹öÚøÿÿÿÿ8­Ë‹î+
+Asquid:S2129" Remove this "String" constructor(´‘Ïïúÿÿÿÿ8­Ë‹î+
+Wsquid:S1854"6Remove this useless assignment to local variable "s3".(Ó‹¼Óşÿÿÿÿ8­Ë‹î+

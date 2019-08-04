@@ -1,0 +1,12 @@
+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(á¨‰ˆ8Š·šØ©,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹ÇÕª8‰ŠØ©,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(£ä¸Ú8°‰—Ø©,
+Vsquid:S2209"5Change this instance-reference to a static reference.(Ù°æÉÿÿÿÿÿ8ÆÒÀ„«,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’¢Êäþÿÿÿÿ8âæÌ„«,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(–äÍ8×áØ©,
+8squid:S2438""threadClass" is a "Thread".(ˆÎÙº8ÆÒÀ„«,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8üÏ¨„«,

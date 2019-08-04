@@ -1,0 +1,24 @@
+
+Gsquid:S1481"&Remove this unused "j" local variable.(ÓòÑÿÿÿÿÿ8ìî´ØÌ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(êÓ´‹ùÿÿÿÿ8€¤îÃß,
+Ysquid:S1197"8Move the array designator from the variable to the type.(Ô‘’ûùÿÿÿÿ8šä‰ØÌ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(à¯«Ôüÿÿÿÿ8õ¢¦ÙÌ,
+Ssquid:S1197"8Move the array designator from the variable to the type.(“Ú›z8äÂˆØÌ,
+msquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Ú›z8äÂˆØÌ,
+ysquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ëëŞãÿÿÿÿÿ8™¥â¦Ü,
+Ysquid:S1197"8Move the array designator from the variable to the type.(ºåÑ¢ûÿÿÿÿ8šä‰ØÌ,
+Ksquid:S00108")Either remove or fill this block of code.(ÓòÑÿÿÿÿÿ8ı ­ØÌ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(íŠÁ´ùÿÿÿÿ8´ÙÌ,
+Msquid:S1481",Remove this unused "sumLeft" local variable.(îÀÆßøÿÿÿÿ8“Ï®ØÌ,
+Tsquid:S1197"8Move the array designator from the variable to the type.(Ç¿îè8ı ­ØÌ,
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºåÑ¢ûÿÿÿÿ8¸ªœØÌ,
+Ysquid:S1197"8Move the array designator from the variable to the type.(«¼ÕŸıÿÿÿÿ8šä‰ØÌ,
+Nsquid:S1481"-Remove this unused "sumRight" local variable.(ÁÁ¡×ıÿÿÿÿ8“Ï®ØÌ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ıŠŸÿÿÿÿÿ8íŠ¦ÙÌ,
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô‘’ûùÿÿÿÿ8šä‰ØÌ,
+Ysquid:S1197"8Move the array designator from the variable to the type.(”ı·˜øÿÿÿÿ8ÇÏÚ×Ì,
+Ysquid:S1197"8Move the array designator from the variable to the type.(ğÊº‰úÿÿÿÿ8şöå×Ì,
+Ysquid:S1197"8Move the array designator from the variable to the type.(ºåÑ¢ûÿÿÿÿ8ô”ØÌ,
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºåÑ¢ûÿÿÿÿ8“†œØÌ,
+Fsquid:S1172"*Remove this unused method parameter "arr".(Ç¿îè8ı ­ØÌ,

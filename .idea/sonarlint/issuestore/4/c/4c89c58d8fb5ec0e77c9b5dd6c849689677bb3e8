@@ -1,0 +1,13 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(îàåÏ8´¸’Ôß,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ƒûÂĞ8¨óèÓß,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸¿òøÿÿÿÿ8õ¼É–ù+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(û¬8¨óèÓß,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(±Ùãš8şÉÈ–ù+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(“Ìÿ³8ØàÒ–ù+
+Zsquid:S1226">Introduce a new variable instead of reusing the parameter "n".(¶¦êá8¨óèÓß,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Šˆâ¦üÿÿÿÿ8Ö•“Ôß,

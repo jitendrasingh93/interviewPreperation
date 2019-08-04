@@ -1,0 +1,15 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ä¦Ó¿şÿÿÿÿ8ãä©ò+
+¢%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ô’­•8¦÷Á©ò+
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ã·Ê 8â¶¾©ò+
+Qsquid:S1313"0Make this IP "10.10.10.19" address configurable.(×ç€üÿÿÿÿ8Ë…Á©ò+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ä¦Ó¿şÿÿÿÿ8Æ…‹©ò+
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ô’­•8¦÷Á©ò+
+Xsquid:S2166"CRename this class to remove "Exception" or correct its inheritance.(³ÂÙš
+_squid:S2166"CRename this class to remove "Exception" or correct its inheritance.(–íÔƒ8µßŒ©ò+
+^squid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8¹ª”©ò+
+hsquid:UselessImportCheck":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8šâ–©ò+
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÈÉÓ“8¡…½©ò+
+Zsquid:S3400"9Remove this method and declare a constant for this value.(ØÙú¢ûÿÿÿÿ8ƒ¯Õ©ò+

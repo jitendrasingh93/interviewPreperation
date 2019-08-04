@@ -1,0 +1,9 @@
+
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ßä’Ç
+Wsquid:HiddenFieldCheck"7Rename "lst" which hides the field declared at line 74.(Ó‘çé
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(õ©‡àûÿÿÿÿ
+Qsquid:S2589"7Remove this expression which always evaluates to "true"(ïß¢¬ûÿÿÿÿ
+_squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¾Äç
+[squid:S1226"AIntroduce a new variable instead of reusing the parameter "size".(Æ‰…Œùÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

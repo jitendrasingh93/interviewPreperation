@@ -1,0 +1,16 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Áß‡Ü8Ë’¢õ·,
+@squid:S1659"Declare "b" on a separate line.(Ï³ýÆüÿÿÿÿ8Ë’¢õ·,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ8œ©àô·,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÑÆœö8Ë’¢õ·,
+@squid:S1659"Declare "c" on a separate line.(Ï³ýÆüÿÿÿÿ8Ë’¢õ·,
+Ysquid:S1197"8Move the array designator from the variable to the type.(á˜‡àúÿÿÿÿ8Ë’¢õ·,
+Qsquid:S1610"5Convert the abstract class "Test1" into an interface.(ðõÞ³8ÜÃðô·,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ8Ë’¢õ·,
+Ssquid:S3518"7Make sure "b" can't be zero before doing this division.(íÉÌ«8Ë’¢õ·,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹ŒÒ úÿÿÿÿ8œ©àô·,

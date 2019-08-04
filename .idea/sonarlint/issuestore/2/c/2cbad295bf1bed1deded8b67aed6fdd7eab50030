@@ -1,0 +1,9 @@
+
+tsquid:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(´ŞÚ¤ûÿÿÿÿ8¯ü´¤ÿ+
+Asquid:S2129" Remove this "String" constructor(í»Ãæúÿÿÿÿ8™¤Ã¤ÿ+
+squid:S1488"`Immediately return this expression instead of assigning it to the temporary variable "employee".(í»Ãæúÿÿÿÿ8’ÿÊ¤ÿ+
+bsquid:HiddenFieldCheck"6Rename "id" which hides the field declared at line 11.(å™‚ïúÿÿÿÿ8ÿÜÂ¤ÿ+
+bsquid:S1126"AReplace this if-then-else statement by a single return statement.(íóè”şÿÿÿÿ8ĞËÄ£ÿ+
+Asquid:S2129" Remove this "String" constructor(í»Ãæúÿÿÿÿ8å’Ç¤ÿ+
+csquid:HiddenFieldCheck"7Rename "age" which hides the field declared at line 10.(¥ïÇııÿÿÿÿ8ÿÜÂ¤ÿ+
+isquid:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(´ŞÚ¤ûÿÿÿÿ8’ÿÊ¤ÿ+

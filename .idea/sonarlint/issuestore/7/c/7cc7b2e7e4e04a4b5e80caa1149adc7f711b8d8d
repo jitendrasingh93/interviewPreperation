@@ -1,0 +1,17 @@
+
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÌŸğT8òéñ·,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(§Ş±Óÿÿÿÿÿ8Æ•Ÿ·,
+Bsquid:S1860"&Synchronize on a new "Object" instead.(Ü²€ÿ8©õÿ·,
+Gsquid:S1860"&Synchronize on a new "Object" instead.(öÈ­ıÿÿÿÿ8Æ•Ÿ·,
+_squid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(òÆÇï8Æ•Ÿ·,
+Fsquid:S00108")Either remove or fill this block of code.(”ı¾8Úçõ·,
+Fsquid:S00108")Either remove or fill this block of code.(”ı¾8Æ•Ÿ·,
+_squid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(òÆÇï8Úçõ·,
+Gsquid:S1860"&Synchronize on a new "Object" instead.(öÈ­ıÿÿÿÿ8Æä€Ÿ·,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(”€—¾8çã÷·,
+Bsquid:S1860"&Synchronize on a new "Object" instead.(Ü²€ÿ8Æ•Ÿ·,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾ì·Ÿüÿÿÿÿ8¸¸˜Ÿ·,
